@@ -21,7 +21,7 @@ I am [Sudhanshu](https://www.linkedin.com/in/sudhanshuptl/), I have 4+ years of 
     <img src="https://github.com/sudhanshuptl/sudhanshuptl/blob/main/asset/c_programming.gif"  height="90" />
   </a>
   <a href="https://www.python.org/" target="_blank" >
-    <img src="https://github.com/sudhanshuptl/sudhanshuptl/blob/main/asset/python2.gif"  height="90" />
+    <img src="https://github.com/sudhanshuptl/sudhanshuptl/blob/main/asset/python.gif"  height="90" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" >
     <img src="https://github.com/sudhanshuptl/sudhanshuptl/blob/main/asset/NODEJS_CIRCLE.gif"  height="90" />
