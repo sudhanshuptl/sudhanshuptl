@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am [Sudhanshu](https://www.linkedin.com/in/sudhanshuptl/), I have 4+ years of Experienced as a Software Engineer with experince in backend technologies like C, Python, Nodejs, Oracle, Presto etc and worked in many domains like Trade finanace (CITI BANK), Networking (Tata Communications limited), Advertisement, BI, Data Engineer (NextRoll) and Automation + cloud technologies (CloudCover).
+I am [Sudhanshu](https://www.linkedin.com/in/sudhanshuptl/), I have 6+ years of Experienced as a Software Engineer with experince in multipale domain and technologies.
+
+ - NeuConnect (TATA Digital) :- A Plateform to manage and send marketing as well as transaction communication to the end customers. We have used GCP as cloud plateform and technologis includes Pub/Sub, BigQuery, Looker, Postgress, Python, Vuejs, Spark etc
+
+ - Dream11-PoC (Dream11, Google) :- 
+ - BizOps (Cloudcover) :-
+ - Presto Deployement Automation
+ - 
+   
+
 
 <p float="left">
   <a href="http://beginer2cs.blogspot.com/" target="_blank" >
