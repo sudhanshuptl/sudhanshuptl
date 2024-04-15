@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am [Sudhanshu](https://www.linkedin.com/in/sudhanshuptl/), I have 6+ years of Experience as a Software Engineer with experience in multiple domains and technologies.
+I am [Sudhanshu](https://www.linkedin.com/in/sudhanshuptl/), I have 7+ years of Experience as a Software Engineer with experience in multiple domains and technologies.
 
  - NeuConnect (TATA Digital):- A platform to manage and send marketing as well as transaction communication to the end customers. We have used GCP as a cloud platform and technologies include Pub/Sub, BigQuery, Looker, Postgres, Python, Vuejs, Spark etc
 
