@@ -2,6 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshuptl/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sudhanshupatel@zohomail.in)
+[![Arattai](https://img.shields.io/badge/-Arattai-000000?style=flat)](https://aratt.ai/user/@sudhanshupatel)
+
+
 
 ## 🚀 About Me
 
