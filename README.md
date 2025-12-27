@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** with **9+ years** of experience building scalable systems and working across multiple domains and technologies. I'm passionate about cloud technologies, distributed systems, and creating efficient solutions for complex problems.
+I'm a **Senior Software Engineer (Tech Lead)** with **9+ years** of experience building scalable systems and working across multiple domains and technologies. I'm passionate about cloud technologies, distributed systems, and creating efficient solutions for complex problems.
 
 - 🔭 Currently working on **cloud-native applications** and **data engineering solutions**
 - 🌱 Exploring **machine learning** and **advanced cloud architectures**
