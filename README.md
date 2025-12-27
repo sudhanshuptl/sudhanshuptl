@@ -14,7 +14,7 @@ I'm a **Senior Software Engineer (Tech Lead)** with **9+ years** of experience b
 
 ## 💼 Professional Experience
 
-### **bp** - *Senior Software Engineer* 
+### **bp** - *Senior Software Engineer [Tech Lead]* 
 **Sep 2024 - Present (1 yr 2 mos)** | *Pune, Maharashtra, India (Hybrid)*
 
 **Tech Lead – EV EMSP Product**
